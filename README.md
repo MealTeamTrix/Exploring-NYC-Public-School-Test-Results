@@ -1,3 +1,3 @@
-# Project Name
+## School Test Data
 This is the Exploring NYC Public Schools Test Results project from Datacamp.
 
